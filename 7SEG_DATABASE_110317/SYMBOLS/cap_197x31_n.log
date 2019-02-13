@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_197X31_N.dra                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Mar 10 16:02:14 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/office_2/seven_segment/SYMBOLS
+    Name      = cap_197x31_n.psm
+    User      = rahul sutar
+    Machine   = RAHUL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

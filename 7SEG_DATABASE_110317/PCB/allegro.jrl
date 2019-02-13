@@ -1,0 +1,217 @@
+\t (00:01:15) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:15)     Journal start - Sat Mar 11 20:00:36 2017
+\t (00:01:15)         Host=RAGHU User=Raghu Pid=7976 CPUs=4
+\t (00:01:15) 
+\d (00:01:15) Database opened: E:/office/PROJECT9/110317/PCB/7SEG.brd
+\i (00:01:15) generaledit 
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 947.97 362.75
+\i (00:01:16) trapsize 3133
+\i (00:01:17) trapsize 2267
+\i (00:01:17) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 980.75 778.40
+\i (00:01:18) trapsize 4535
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 554.47 1531.18
+\i (00:01:18) trapsize 2267
+\i (00:02:50) pick grid 3506.61 873.64
+\t (00:02:50) last pick:  3510.00  870.00
+\i (00:02:50) Esc 
+\i (00:02:51) zoom out 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom out 2159.78 1055.03
+\i (00:02:51) trapsize 4535
+\i (00:02:51) zoom out 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom out 3062.82 1055.03
+\i (00:02:51) trapsize 9070
+\i (00:02:52) zoom in 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom in 296.61 1308.97
+\i (00:02:52) trapsize 4535
+\i (00:02:52) zoom in 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom in 296.61 1308.97
+\i (00:02:52) trapsize 2267
+\i (00:02:53) zoom out 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom out 2604.81 832.82
+\i (00:02:53) trapsize 4535
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 899.74 170.75
+\i (00:02:53) trapsize 2267
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 899.74 170.76
+\i (00:02:53) trapsize 1134
+\i (00:02:53) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out 806.78 207.04
+\i (00:02:54) trapsize 2267
+\i (00:02:57) artwork 
+\i (00:02:59) setwindow form.film_control
+\i (00:02:59) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:03:00) FORM film_control filmtree 'MULTISEL YES' BOT_MASK 
+\i (00:03:00) FORM film_control filmtree  BOT_MASK 
+\i (00:03:00) FORM film_control filmtree 'MULTISEL YES' DRILL_MASTER 
+\i (00:03:00) FORM film_control filmtree  DRILL_MASTER 
+\i (00:03:00) FORM film_control filmtree 'MULTISEL YES' BOT_SILK 
+\i (00:03:00) FORM film_control filmtree  BOT_SILK 
+\i (00:03:01) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:03:01) FORM film_control filmtree  TOP 
+\i (00:03:02) FORM film_control filmtree 'MULTISEL YES' TOP_PASTE 
+\i (00:03:02) FORM film_control filmtree  TOP_PASTE 
+\i (00:03:02) FORM film_control filmtree 'MULTISEL YES' TOP_PLAC 
+\i (00:03:02) FORM film_control filmtree  TOP_PLAC 
+\i (00:03:03) FORM film_control filmtree 'MULTISEL NO' TOP_PLAC 
+\i (00:03:03) FORM film_control filmtree 'MULTISEL YES' TOP_SILK 
+\i (00:03:03) FORM film_control filmtree  TOP_SILK 
+\i (00:03:03) FORM film_control filmtree 'MULTISEL YES' TOP_PLAC 
+\i (00:03:03) FORM film_control filmtree  TOP_PLAC 
+\i (00:03:04) FORM film_control filmtree 'MULTISEL YES' TOP_MASK 
+\i (00:03:04) FORM film_control filmtree  TOP_MASK 
+\i (00:03:04) FORM film_control filmtree 'MULTISEL YES' TOP_ASS 
+\i (00:03:04) FORM film_control filmtree  TOP_ASS 
+\i (00:03:09) FORM film_control undefined_line_width 5 
+\i (00:03:09) FORM film_control general_parameters  
+\i (00:03:22) FORM film_control film_control  
+\i (00:03:25) FORM film_control create  
+\t (00:03:25) Checking db records
+\t (00:03:25)     checking for orphans...
+\t (00:03:25)     Checked 100 percent
+\w (00:03:25) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:03:25) Done dbdoctor.
+\t (00:03:25) Starting Create artwork films...
+\w (00:03:29) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:03:30) Artwork generated with warnings.
+\i (00:03:34) setwindow pcb
+\i (00:03:34) setwindow text
+close
+\i (00:03:40) setwindow form.film_control
+\i (00:03:40) FORM film_control ok  
+\i (00:03:40) setwindow pcb
+\i (00:03:40) generaledit 
+\i (00:03:42) zoom out 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom out 425.85 905.40
+\i (00:03:42) trapsize 4535
+\i (00:03:42) zoom out 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom out 425.86 905.40
+\i (00:03:42) trapsize 9070
+\i (00:03:43) zoom in 1 
+\i (00:03:43) setwindow pcb
+\i (00:03:43) zoom in 205.94 724.01
+\i (00:03:43) trapsize 4535
+\i (00:06:08) zoom out 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out 3099.13 -727.11
+\i (00:06:08) trapsize 9070
+\i (00:06:08) zoom out 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out 5992.33 -727.12
+\i (00:06:08) trapsize 18139
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in -2206.57 796.57
+\i (00:06:09) trapsize 9070
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in -2152.15 796.57
+\i (00:06:09) trapsize 4535
+\i (00:06:10) zoom in 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom in -29.86 170.78
+\i (00:06:10) trapsize 2267
+\i (00:06:11) pick grid 51.77 578.91
+\t (00:06:11) last pick:  50.00  580.00
+\i (00:06:11) pick grid -447.06 637.86
+\t (00:06:11) last pick:  -450.00  640.00
+\i (00:07:06) zoom out 1 
+\i (00:07:06) setwindow pcb
+\i (00:07:06) zoom out 917.91 860.07
+\i (00:07:06) trapsize 4535
+\i (00:07:07) zoom in 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom in 137.93 923.55
+\i (00:07:07) trapsize 2267
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 1589.06 1009.71
+\i (00:07:09) trapsize 1134
+\i (00:07:10) zoom out 1 
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom out 1137.85 1070.93
+\i (00:07:10) trapsize 2267
+\i (00:07:13) zoom out 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom out 1682.03 930.35
+\i (00:07:13) trapsize 4535
+\i (00:07:17) setwindow form.vf_vis
+\i (00:07:17) FORM vf_vis colorview_list Film: DRILL_MASTER 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out -793.95 1501.74
+\i (00:07:18) trapsize 9070
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in 1112.89 3243.09
+\i (00:07:19) trapsize 4535
+\i (00:07:23) show element 
+\i (00:07:24) pick grid 4096.79 2898.45
+\t (00:07:24) last pick:  4100.00  2900.00
+\i (00:07:29) Esc 
+\i (00:07:29) Esc 
+\i (00:07:29) Esc 
+\i (00:07:30) setwindow text
+\i (00:07:30) close 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) artwork 
+\i (00:07:36) setwindow form.film_control
+\i (00:07:36) FORM film_control filmtree popup Add MANUFACTURING/NCLEGEND-1-2 DRILL_MASTER 
+\i (00:07:46) setwindow form.scl_browser
+\i (00:07:46) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_LEGEND MANUFACTURING 
+\i (00:07:46) FORM scl_browser treelist  NCDRILL_LEGEND MANUFACTURING 
+\i (00:07:47) FORM scl_browser done  
+\i (00:07:51) setwindow form.film_control
+\i (00:07:51) FORM film_control filmtree popup 'Display for Visibility' DRILL_MASTER 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 205.94 1846.38
+\i (00:07:52) trapsize 9070
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 2709.14 1664.99
+\i (00:07:54) trapsize 4535
+\i (00:07:57) setwindow form.film_control
+\i (00:07:57) FORM film_control filmtree  DRILL_MASTER 
+\i (00:07:59) FORM film_control filmtree popup 'Match Display' DRILL_MASTER 
+\i (00:07:59) FORM film_control ok  
+\i (00:07:59) setwindow pcb
+\i (00:07:59) generaledit 
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 3870.05 948.50
+\i (00:08:00) trapsize 9070
+\i (00:08:06) artwork 
+\i (00:08:08) setwindow form.film_control
+\i (00:08:08) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:08:08) FORM film_control filmtree 'MULTISEL YES' BOT_MASK 
+\i (00:08:08) FORM film_control filmtree  BOT_MASK 
+\i (00:08:08) FORM film_control filmtree 'MULTISEL YES' BOT_SILK 
+\i (00:08:08) FORM film_control filmtree  BOT_SILK 
+\i (00:08:09) FORM film_control filmtree 'MULTISEL YES' DRILL_MASTER 
+\i (00:08:09) FORM film_control filmtree  DRILL_MASTER 
+\i (00:08:09) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:08:09) FORM film_control filmtree  TOP 
+\i (00:08:09) FORM film_control filmtree 'MULTISEL YES' TOP_ASS 
+\i (00:08:09) FORM film_control filmtree  TOP_ASS 
+\i (00:08:10) FORM film_control filmtree 'MULTISEL YES' TOP_MASK 
+\i (00:08:10) FORM film_control filmtr

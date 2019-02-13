@@ -1,0 +1,18 @@
+"BLOCK_DIAGRAM  Revised: Friday, March 10, 2017"				
+          Revision: 				
+"Bill Of Materials          March 11,2017      19:57:28"	Page1			
+				
+Item	Quantity	Reference	Part	PART NO
+______________________________________________				
+				
+1	1	C1	10uF	
+2	1	C2	100nF	
+3	1	J1	MAX7219_MAXIM_SOCKET	ED241DT
+4	1	J2	HEADER_5PIN_INPUT	5 PIN HEADER
+5	1	J3	HEADER_4PIN_OUTPUT	4 PIN HEADER
+6	1	J4	HEADER_6PIN_1A	6 PIN HEADER
+7	1	J5	HEADER_6PIN_1B	6 PIN HEADER
+8	1	J6	HEADER_6PIN_2A	6 PIN HEADER
+9	1	J7	HEADER_6PIN_2B	6 PIN HEADER
+10	4	"MH1,MH2,MH3,MH4"	HEADER 1	
+11	1	R1	40k	

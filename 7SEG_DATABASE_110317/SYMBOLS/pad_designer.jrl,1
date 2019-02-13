@@ -1,0 +1,27 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Fri Mar 10 19:33:06 2017
+\t (00:00:00)         Host=RAHUL User=rahul sutar Pid=784 CPUs=4
+\t (00:00:00) 
+\i (00:00:14) setwindow form.padedit
+\i (00:00:14) FORM padedit decimal_places 2 
+\i (00:00:14) FORM padedit layers  
+\i (00:02:11) FORM padedit parameters  
+\i (00:02:27) FORM padedit layers  
+\i (00:02:42) FORM padedit grid row begin_layer 
+\i (00:02:46) FORM padedit geometry Rectangle 
+\i (00:03:11) FORM padedit width  
+\w (00:03:11) User units conversion failed.
+\i (00:03:34) FORM padedit width 23.62 
+\i (00:03:54) FORM padedit height 61.02 
+\i (00:03:54) FORM padedit grid row soldermask_top 
+\i (00:04:07) FORM padedit geometry Rectangle 
+\i (00:04:20) FORM padedit width 28.62 
+\i (00:04:27) FORM padedit height 66.02 
+\i (00:04:27) FORM padedit grid row pastemask_top 
+\i (00:04:33) FORM padedit geometry Rectangle 
+\i (00:04:41) FORM padedit width 23.62 
+\i (00:04:45) FORM padedit height 61.02 
+\i (00:04:48) pse_save_as 
+\i (00:04:55) fillin "uart.pad"
+\i (00:19:20) pse_exit
+\t (00:19:20)     Journal end - Fri Mar 10 19:52:26 2017

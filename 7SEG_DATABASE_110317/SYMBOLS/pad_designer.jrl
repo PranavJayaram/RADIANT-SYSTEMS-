@@ -1,0 +1,31 @@
+\t (00:00:57) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:57)     Journal start - Sat Mar 11 16:13:06 2017
+\t (00:00:57)         Host=RAGHU User=Raghu Pid=10532 CPUs=4
+\t (00:00:57) 
+\i (00:01:05) FORM padedit decimal_places 2 
+\i (00:04:32) FORM padedit hole_size_x 120 
+\i (00:04:34) FORM padedit drill_fig Circle 
+\i (00:04:36) FORM padedit drill_fig Diamond 
+\i (00:04:39) FORM padedit drill_fig Circle 
+\i (00:05:11) FORM padedit characters D 
+\i (00:05:11) FORM padedit layers  
+\i (00:05:12) FORM padedit grid row begin_layer 
+\i (00:05:50) FORM padedit geometry Circle 
+\i (00:05:54) FORM padedit width 200 
+\i (00:05:56) FORM padedit crossbox YES 
+\i (00:05:57) FORM padedit grid row end_layer 
+\i (00:06:00) FORM padedit geometry Circle 
+\i (00:06:04) FORM padedit width 200 
+\i (00:06:09) FORM padedit grid row soldermask_top 
+\i (00:06:10) FORM padedit geometry Circle 
+\i (00:06:13) FORM padedit width 200 
+\i (00:06:19) FORM padedit grid row soldermask_bottom 
+\i (00:06:21) FORM padedit geometry Circle 
+\i (00:06:23) FORM padedit width 200 
+\i (00:06:30) pse_save 
+\i (00:06:32) setwindow text
+\i (00:06:32) close 
+\i (00:06:33) fillin yes 
+\i (03:33:46) setwindow form.padedit
+\i (03:33:46) pse_exit
+\t (03:33:46)     Journal end - Sat Mar 11 19:45:55 2017

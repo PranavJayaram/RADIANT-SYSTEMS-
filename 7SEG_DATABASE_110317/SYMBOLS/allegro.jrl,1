@@ -1,0 +1,40 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Sat Mar 11 09:55:43 2017
+\t (00:00:02)         Host=RAHUL User=rahul sutar Pid=6444 CPUs=4
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: G:/office_2/seven_segment/SYMBOLS/CAP_197X31_P.dra
+\i (00:00:02) trapsize 62
+\i (00:00:03) trapsize 60
+\i (00:00:03) trapsize 62
+\i (00:00:03) trapsize 51
+\i (00:00:03) trapsize 51
+\i (00:00:03) generaledit 
+\i (00:00:04) open 
+\i (00:00:08) fillin "TH_1909X31_2DIP.dra"
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 51
+\d (00:00:08) Database opened: G:/office_2/seven_segment/SYMBOLS/TH_1909X31_2DIP.dra
+\i (00:00:08) generaledit 
+\i (00:00:11) show measure 
+\i (00:00:13) pick grid 1.5 -2.9
+\t (00:00:13) last pick:  0.0  0.0
+\i (00:00:16) pick grid 498.7 -0.9
+\t (00:00:16) last pick:  500.0  0.0
+\i (00:00:32) setwindow text
+\i (00:00:32) close 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) Esc 
+\i (00:00:35) setwindow text
+\i (00:00:35) close 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) prepopup 697.2 -80.9
+\i (00:00:36) done 
+\i (00:00:36) generaledit 
+\i (00:16:28) show measure 
+\i (00:16:30) pick grid 3.5 5.2
+\t (00:16:30) last pick:  0.0  10.0
+\i (00:16:32) pick grid 498.7 2.1
+\t (00:16:32) last pick:  500.0  0.0
+\i (00:33:57) exit 
+\t (00:33:58)     Journal end - Sat Mar 11 10:29:38 2017

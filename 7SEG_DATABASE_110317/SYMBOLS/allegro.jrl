@@ -1,0 +1,212 @@
+\t (00:00:52) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:52)     Journal start - Sat Mar 11 16:12:00 2017
+\t (00:00:52)         Host=RAGHU User=Raghu Pid=3092 CPUs=4
+\t (00:00:52) 
+\t (00:00:52) Starting new design...
+\i (00:00:52) trapsize 1731
+\i (00:00:52) trapsize 1731
+\i (00:00:52) generaledit 
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -342.2 -169.0
+\i (00:00:54) trapsize 866
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -13.2 -255.6
+\i (00:00:54) trapsize 433
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -99.8 -212.3
+\i (00:00:54) trapsize 216
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -177.7 -173.3
+\i (00:00:55) trapsize 108
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -171.2 -164.6
+\i (00:00:55) trapsize 54
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -171.2 -164.6
+\i (00:00:55) trapsize 27
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 79.3 -45.6
+\i (00:07:37) trapsize 54
+\i (00:07:38) zoom in 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in 12.2 24.8
+\i (00:07:38) trapsize 27
+\i (00:07:40) add pin 
+\i (00:07:46) setwindow form.mini
+\i (00:07:46) FORM mini pad_browse  
+\t (00:07:49) No valid name selected.
+\i (00:07:53) fillin "Mh120d"
+\w (00:07:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:53) Using 'MH120D.pad'.
+\i (00:07:54) setwindow pcb
+\i (00:07:54) pick grid 48.5 1.5
+\t (00:07:54) last pick:  0.0  0.0
+\t (00:07:54) Using 'MH120D.pad'.
+\i (00:07:55) prepopup 201.0 9.1
+\i (00:07:56) done 
+\t (00:07:56) Exiting from Add Pin.
+\i (00:07:56) generaledit 
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 187.5 -2.8
+\i (00:07:57) trapsize 54
+\i (00:08:06) add line 
+\i (00:08:07) prepopup -519.0 188.7
+\i (00:08:07) done 
+\i (00:08:07) generaledit 
+\i (00:08:09) add circle 
+\t (00:08:09) Pick center point of the circle.
+\t (00:08:09) Pick center point of the circle.
+\i (00:08:15) setwindow form.mini
+\i (00:08:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:08:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) define grid 
+\t (00:08:22) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:08:24) setwindow form.grid
+\i (00:08:24) FORM grid non_etch non_etch_x_grids 5 
+\i (00:08:24) FORM grid non_etch non_etch_y_grids 5 
+\i (00:08:25) FORM grid all_etch all_etch_x_grids 5 
+\i (00:08:26) FORM grid all_etch all_etch_y_grids 5 
+\i (00:08:26) FORM grid done  
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 75.0 28.6
+\i (00:08:27) trapsize 108
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in -67.3 26.4
+\i (00:08:28) trapsize 54
+\i (00:08:29) grid toggle 
+\i (00:08:31) zoom in 1 
+\i (00:08:31) setwindow pcb
+\i (00:08:31) zoom in 6.3 -0.6
+\i (00:08:31) trapsize 27
+\i (00:08:31) zoom in 1 
+\i (00:08:31) setwindow pcb
+\i (00:08:31) zoom in 6.3 -0.6
+\i (00:08:31) trapsize 14
+\i (00:08:31) zoom in 1 
+\i (00:08:31) setwindow pcb
+\i (00:08:31) zoom in 6.4 -0.6
+\i (00:08:31) trapsize 7
+\i (00:08:32) pick grid -0.1 0.1
+\t (00:08:32) last pick:  0.0  0.0
+\t (00:08:32) Pick a perimeter point on the circle.
+\i (00:08:33) zoom out 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom out 17.4 -1.8
+\i (00:08:33) trapsize 14
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out 17.3 -1.7
+\i (00:08:34) trapsize 27
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out 17.3 -1.7
+\i (00:08:34) trapsize 54
+\i (00:08:35) prepopup 131.9 19.9
+\i (00:08:36) oops 
+\t (00:08:36) Pick center point of the circle.
+\i (00:08:38) define grid 
+\t (00:08:38) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:08:41) setwindow form.grid
+\i (00:08:41) FORM grid non_etch non_etch_x_grids 20 
+\i (00:08:42) FORM grid non_etch non_etch_y_grids 20 
+\i (00:08:44) FORM grid all_etch all_etch_x_grids 20 
+\i (00:08:44) FORM grid all_etch all_etch_y_grids 20 
+\i (00:08:44) FORM grid done  
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 1 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 70.2 29.7
+\i (00:08:45) trapsize 27
+\i (00:08:54) setwindow form.mini
+\i (00:08:54) FORM mini line_width 5.00000 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) pick grid 1.5 -0.1
+\t (00:08:56) last pick:  0.0  0.0
+\t (00:08:56) Pick a perimeter point on the circle.
+\i (00:09:02) pick grid 0.5 110.3
+\t (00:09:02) last pick:  0.0  120.0
+\t (00:09:02) Pick center point of the circle.
+\i (00:09:03) prepopup 97.3 87.1
+\i (00:09:03) done 
+\i (00:09:04) generaledit 
+\i (00:09:07) add text 
+\t (00:09:07) Pick text location.
+\i (00:09:12) setwindow form.mini
+\i (00:09:12) FORM mini class REF DES 
+\i (00:09:14) FORM mini subclass SILKSCREEN_TOP 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) pick grid 133.0 15.1
+\t (00:09:17) last pick:  140.0  20.0
+\t (00:09:17) Enter text string.
+\i (00:16:19) setwindow pcb
+\i (00:16:19) save 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) pick 140.0 20.0
+\t (00:16:26) Symbol 'mh120.psm' created.
+\i (00:16:26) setwindow pcb
+\i (00:16:26) generaledit 
+\i (00:19:22) prepopup 237.5 76.2
+\i (00:19:24) pick grid 220.7 107.1
+\t (00:19:24) last pick:  220.0  100.0
+\i (00:19:25) Esc 
+\i (00:19:27) trapsize 37
+\i (00:19:28) trapsize 27
+\i (00:19:38) add text 
+\t (00:19:38) Pick text location.
+\i (00:19:42) setwindow form.mini
+\i (00:19:42) FORM mini subclass ASSEMBLY_TOP 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) pick grid 140.1 -3.3
+\t (00:19:44) last pick:  140.0  0.0
+\t (00:19:44) Enter text string.
+\i (00:19:55) setwindow pcb
+\i (00:19:55) prepopup 246.7 18.3
+\i (00:19:56) done 
+\i (00:19:56) setwindow pcb
+\i (00:19:56) pick 140.0 0.0
+\i (00:19:56) setwindow pcb
+\i (00:19:56) generaledit 
+\i (00:19:58) pick grid 160.2 13.5
+\t (00:19:58) last pick:  160.0  20.0
+\i (00:19:59) prepopup 145.5 77.3
+\i (00:20:00) pick grid 122.8 96.8
+\t (00:20:00) last pick:  120.0  100.0
+\i (00:20:02) prepopup -168.9 92.0
+\i (00:20:02) pick grid -193.2 87.6
+\t (00:20:02) last pick:  -200.0  80.0
+\i (00:20:04) save 
+\i (00:20:05) fillin yes 
+\t (00:20:06) Symbol 'mh120.psm' created.
+\i (00:20:06) generaledit 
+\i (00:20:10) prepopup -221.4 82.8
+\i (00:20:13) pick grid -200.3 108.7
+\t (00:20:13) last pick:  -200.0  100.0
+\i (00:20:17) save_as 
+\i (00:20:21) fillin "menu_cancel"
+\i (00:20:21) generaledit 
+\i (01:18:51) open 
+\i (01:19:10) fillin "E:\PROJECTS\ATMEL SAMD21G1\PCB\ATMELSAMD21G_040316_2000_FINAL.brd"
+\i (01:19:10) cd "E:\PROJECTS\ATMEL SAMD21G1\PCB"
+\t (01:19:10) Opening existing design...
+\w (01:19:10) WARNING(SPMHDB-214): Allegro PCB Design XL (legacy) opening an Allegro L design.
+\w (01:19:11) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (01:19:11) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro L). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (01:19:12) fillin confirm
+\t (01:19:12) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (01:19:12) trapsize 4128
+\i (01:19:12) trapsize 4020
+\i (01:19:13) trapsize 4128
+\i (01:19:13) trapsize 4548
+\t (01:19:13)     Journal end - Sat Mar 11 17:30:21 2017
